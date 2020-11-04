@@ -9,3 +9,7 @@ Displaying the following information of movies using jQuery and Ajax for API:
 - Release Date
 
 - Plot
+
+GitHub Pages URL: https://luiscontrerasglz.github.io/basic_movie_search_API/
+
+
